@@ -1,0 +1,31 @@
+write a python programm that display the first and last name of user that resides in a given address.
+e.g. 'first name' and 'last name
+
+write a python programm that will convert US dollar to naira in current exchange rate.
+e.g N500 = USD 1
+    'inputed_value' * N500
+
+Write a python program that will calculate the area of circle based on the radius inputed by the user.
+e.g radius = 'inputed_value'
+    Area = (pie)r2 = 'pie_value' * r * r
+    
+write a python program that will calculate the number of years between two dates.
+
+
+
+if it's hot:
+    it's a hot day
+    Drink plenty of water
+otherwise if it's a cold day
+    wear worm clothes
+otherwise
+    it's a lovely day
+
+2. a = 7 and b =
+executive the following
+b - a 
+a * b 
+a / b 
+a // b 
+a % b 
+a ** b
